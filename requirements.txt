@@ -1,5 +1,5 @@
 fastapi==0.99.1
 tensorflow==2.11.0
 opencv-python==4.8.0.74
-numpy==1.23.5
+numpy==1.25.0
 imghdr==0.0.1
